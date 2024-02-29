@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to My Blank Project's documentation!
+This is my first website!!!!!
 ============================================
 
 Welcome to the whimsical world of My Blank Project, where curiosity meets creativity, wrapped in a blanket of code and documentation. Before you dive into the depths of our documentation, let's break the ice with a touch of light-heartedness. After all, even the most serious projects need a sprinkle of fun!
